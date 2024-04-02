@@ -24,3 +24,7 @@ A responsive Banking Project named Online Banking System. People can share their
 
 ## Demo Vido of My Project 💙
 
+https://github.com/akankshamishra9/Online-Bank-Management-System/assets/94304465/99c26cee-d7b5-450c-abac-5b5bf0ce59a8
+
+
+
