@@ -1,7 +1,7 @@
 # Online-Bank-Management-System
 
 ## 📌 Introduction
-A responsive Banking Project named Online Banking System. People can share their personal details and can open account and have real life experiences through this project.**
+"In today's fast-paced digital world, the need for efficient and secure banking systems is paramount. The Online Bank Management System is a comprehensive platform designed to facilitate various banking activities over the Internet. It provides customers with convenient access to their accounts, allowing them to perform transactions, manage finances, and access banking services from anywhere, at any time."
 
 ## 💻 Languages/libraries used in this project
 - Java
